@@ -1,8 +1,8 @@
 .menu li{
 	display: inline-block;
 	text-decoration: none;
-	border: 3px solid #00FFFF;
-	border-style: outset;
+	border: 3px solid #FFFFFF;
+	border-style: groove;
 	padding: 2px;
 	background-color: #FFFFFF;
 	color: #000000;
@@ -13,8 +13,8 @@
 .menu li a:hover{
 	display: block;
 	color: 	#000000;
-	background-color: #00FFFF;
+	background-color: #8f8f8f;
 }
 .menu .is-current{
-	background-color: #0000FF;
+	background-color: #8f8f8f;
 }
