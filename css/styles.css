@@ -30,7 +30,10 @@ h2{
 p{
 	margin-right: 15px;
 	line-height: 1.2em;
-
+	font-family: "Montserrat";
+}
+article{
+	font-family: "Montserrat";
 }
 
 figure{
@@ -43,7 +46,7 @@ table{
 	background-color: #000000;
 }
 a{
-	color: #7D9C9F;
+	color: #000000;
 	text-decoration: none;
 /* unvisited link*/
 }
@@ -68,4 +71,8 @@ footer{
 	margin: 0 auto;
 	width: 70%;
 	min-width: 960px;
+}
+.geoimage{
+	width: 300px;
+	height: 300px;
 }
